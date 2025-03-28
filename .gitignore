@@ -1,0 +1,40 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+/.idea/misc.xml
+/.idea/gradle.xml
+/.idea/compiler.xml
+/.idea/kotlinc.xml
+/.idea/deploymentTargetDropDown.xml
+/.idea/migrations.xml
+/.idea/vcs.xml
+
+# User-specific configurations
+*.iws
+*.ipr
+.idea/tasks.xml
+.idea/codeStyleSettings.xml
+.idea/dictionaries
+.idea/codeStyles/
+
+# Android Studio captures folder
+captures/
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
