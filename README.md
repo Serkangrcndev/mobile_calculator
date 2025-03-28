@@ -12,8 +12,7 @@ Modern ve kullanımı kolay bir Android hesap makinesi uygulaması.
 - Koyu tema desteği
 
 ## Ekran Görüntüleri
-
-![Hesap Makinesi](screenshots/screenshot_1.png)
+![Ekran görüntüsü 2025-03-28 230708](https://github.com/user-attachments/assets/03d41a29-6307-4137-95bc-992364291599)
 
 ## Kurulum
 
